@@ -1,0 +1,22 @@
+.dropdown{
+    list-style: none;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.dropdown-item:hover{
+    background-color: rgba(30, 175, 127, 0.39);
+}
+.prod{
+    flex-wrap: wrap;
+    justify-content: center;
+margin-left: 10px;
+}
+.prod:hover{
+    cursor: pointer;
+
+}
+.card:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+
+}
